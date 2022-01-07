@@ -4,7 +4,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 
-bot = telebot.TeleBot('5079893996:AAGVv1iHUwSKeoYBn09JbSrO72Mz5UVjrNU')
+bot = telebot.TeleBot(api key)
 
 def gen_markup():
     markup = InlineKeyboardMarkup()
